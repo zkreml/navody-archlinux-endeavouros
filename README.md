@@ -9,9 +9,14 @@ Tento repozitář obsahuje návody a základní příkazy pro správu systému A
 - [Instalace Arch Linuxu](docs/installation.md)
 - [Základní příkazy](docs/basic-commands.md)
 - [Správa balíčků (pacman, yay, paru)](docs/package-management.md)
-- [Systémová údržba](docs/system-maintenance.md)
+- **Systémová údržba**
+  - [Čištění cache](docs/cache-cleaning.md)
+  - [Údržba souborového systému](docs/filesystem-maintenance.md)
+  - [Zálohování pomocí rsync](docs/backup-rsync.md)
+  - [Zálohování pomocí BorgBackup](docs/backup-borgbackup.md)
 - [Zabezpečení](docs/security.md)
 - [Tipy a triky](docs/tips-and-tricks.md)
+
 
 ## Příspěvky
 
