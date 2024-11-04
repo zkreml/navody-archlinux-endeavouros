@@ -2,8 +2,6 @@
 
 ## Popis
 
-![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
-
 
 Tento repozitář obsahuje základní příkazy a návody pro správu Arch Linuxu. Cílem je poskytnout rychlý přístup k nejdůležitějším příkazům a postupům, které mohou pomoci začátečníkům i pokročilým uživatelům efektivně spravovat své systémy.
 
