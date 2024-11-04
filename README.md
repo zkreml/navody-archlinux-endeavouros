@@ -2,28 +2,18 @@
 
 ## Popis
 
-
-Tento repozitář obsahuje základní příkazy a návody pro správu Arch Linuxu. Cílem je poskytnout rychlý přístup k nejdůležitějším příkazům a postupům, které mohou pomoci začátečníkům i pokročilým uživatelům efektivně spravovat své systémy.
+Tento repozitář obsahuje návody a základní příkazy pro správu systému Arch Linux. Cílem je mít přehlednou a ucelenou dokumentaci pro správu, instalaci a zabezpečení systému.
 
 ## Obsah
 
-- [Instalace](#instalace)
-- [Základní příkazy](#základní-příkazy)
-- [Správa balíčků](#správa-baličků)
-- [Systémová údržba](#systémová-údržba)
-- [Zabezpečení](#zabezpečení)
-- [Tipy a triky](#tipy-a-triky)
+- [Instalace Arch Linuxu](docs/installation.md)
+- [Základní příkazy](docs/basic-commands.md)
+- [Správa balíčků (pacman, yay, paru)](docs/package-management.md)
+- [Systémová údržba](docs/system-maintenance.md)
+- [Zabezpečení](docs/security.md)
+- [Tipy a triky](docs/tips-and-tricks.md)
 
-## Instalace
+## Příspěvky
 
-Krok za krokem průvodce instalací Arch Linuxu, od přípravy disku až po první spuštění systému. Pro začátek se ujistěte, že máte vytvořený bootovací USB flash disk s ISO souborem Arch Linux.
+Pokud máte užitečné příkazy nebo návody, které by zde měly být, podívejte se na [CONTRIBUTING.md](CONTRIBUTING.md) pro více informací o přidávání příspěvků do tohoto repozitáře.
 
-* [Instalace Arch Linuxu](docs/installation.md)
-
-## Základní příkazy
-
-Seznam základních příkazů, které jsou potřeba pro každodenní práci v systému Arch Linux.
-
-- **Aktualizace systému**:  
-  ```bash
-  sudo pacman -Syu
