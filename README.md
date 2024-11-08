@@ -8,7 +8,10 @@ Tento repozitář obsahuje návody a základní příkazy pro správu systému A
 
 - [Instalace Arch Linuxu](docs/installation.md)
 - [Základní příkazy](docs/basic-commands.md)
-- [Správa balíčků (pacman, yay, paru)](docs/package-management.md)
+- **Správa balíčků**
+  - [Pacman](docs/package-management.md)
+  - [Průvodce AUR a Instalace Správců Balíčků](docs/aur.md)
+  - [Řešení chyb s klíči v Arch Linux a EndeavourOS](docs/keyring.md)
 - **Systémová údržba**
   - [Čištění cache](docs/cache-cleaning.md)
   - [Údržba souborového systému](docs/filesystem-maintenance.md)
